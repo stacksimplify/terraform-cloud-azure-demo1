@@ -16,5 +16,6 @@ locals {
     Owner   = local.owner
     Tag1 = "Terraform-Cloud-Demo1"
     Tag2 = "Terraform-Cloud-Demo1-Workspace-Locked"
+    Tag3 = "Terraform-Cloud-Demo1-VCS-Demo"
   }
 }
